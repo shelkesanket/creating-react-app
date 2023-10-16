@@ -1,0 +1,22 @@
+{
+  "name": "creating-react-app",
+  "version": "1.0.0",
+  "description": "this is manual react app",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shelkesanket/creating-react-app.git"
+  },
+  "author": "Sanket Shelke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shelkesanket/creating-react-app/issues"
+  },
+  "homepage": "https://github.com/shelkesanket/creating-react-app#readme",
+  "devDependencies": {
+    "parcel": "^2.10.0"
+  }
+}
